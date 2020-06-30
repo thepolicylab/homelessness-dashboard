@@ -1,3 +1,7 @@
+.card,
+.card-footer {
+  border-color: #000000;
+}
 .graph {
   border: 1px solid #000000;
   box-sizing: border-box;
@@ -24,4 +28,9 @@
 
 .coa-resources {
   background-color: #b3d2e0;
+}
+
+.info-icon {
+  height: 12px;
+  width: 12px;
 }
